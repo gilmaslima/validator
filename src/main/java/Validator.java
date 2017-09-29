@@ -48,5 +48,4 @@ public class Validator {
 	List<String> getErrors() {
 		return errors;
 	}
-	
 }
